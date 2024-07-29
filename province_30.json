@@ -1,0 +1,10 @@
+{
+    "owner": "red",
+    "occupant": null,
+    "squares": [
+        {
+            "x": 110,
+            "y": 55
+        }
+    ]
+}
